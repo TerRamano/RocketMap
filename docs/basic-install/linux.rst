@@ -11,6 +11,7 @@ You can install the required packages on Ubuntu by running the following command
 .. code-block:: bash
 
   sudo apt-get install -y python python-pip python-dev build-essential git libssl-dev libffi-dev
+  sudo apt-get install -y curl
   curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
   sudo apt-get install -y nodejs
 
